@@ -1,3 +1,3 @@
 # r
-[] Task 1
-[] task2
+[ ] Task 1
+[ ] task2
